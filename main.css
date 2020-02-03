@@ -60,7 +60,7 @@ nav a:visited {
 }
 
 .heading {
-  background-image: url(meeting.jpg/);
+  background-image: url(./meeting.jpg);
   background-size: cover;
   height: 100vh;
   width: 100vw;
